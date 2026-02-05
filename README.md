@@ -12,7 +12,7 @@ The tests cover login, logout, navigation, cart functionality, checkout, and pro
 1. Clone the repository:
    ```bash
    git clone https://github.com/ValeriuCanter/TesteAutomateCypress.git
-   cd shopping-site-tests
+   cd TesteAutomateCypress
    ```
 
 2. Install dependencies:
